@@ -23,4 +23,3 @@ mixedCase.toLowerCase() === lowercase // false
 function sayHiToGrandma(string){
   return string.toUpperCase
 }
-
