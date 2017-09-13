@@ -21,5 +21,5 @@ mixedCase.toUpperCase() === uppercase // false
 mixedCase.toLowerCase() === lowercase // false
 
 function sayHiToGrandma(string){
-  return "hello"
+  return "I can't hear you!"
 }
