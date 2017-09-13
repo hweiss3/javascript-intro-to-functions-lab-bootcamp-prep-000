@@ -17,8 +17,8 @@ mixedCase.toUpperCase() === uppercase // false
 mixedCase.toLowerCase() === lowercase // false
 
 function sayHiToGrandma(string){
-  if (lowercase) {
-    return string
+  if (string === lowercase) {
+    console.log()
     
   }
 }
